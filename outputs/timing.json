@@ -1,0 +1,20 @@
+[
+  {
+    "method": "autoencoder",
+    "segment": "forward",
+    "mean_ms": 11.125326999463141,
+    "device": "Intel64 Family 6 Model 142 Stepping 12, GenuineIntel"
+  },
+  {
+    "method": "embedding",
+    "segment": "feature_extract",
+    "mean_ms": 39.89610199816525,
+    "device": "Intel64 Family 6 Model 142 Stepping 12, GenuineIntel"
+  },
+  {
+    "method": "embedding",
+    "segment": "nearest_distance",
+    "mean_ms": 4.930517999455333,
+    "device": "Intel64 Family 6 Model 142 Stepping 12, GenuineIntel"
+  }
+]

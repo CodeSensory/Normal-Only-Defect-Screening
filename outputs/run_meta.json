@@ -1,0 +1,4 @@
+{
+  "train_device": "cpu",
+  "narrowed_bottleneck": false
+}

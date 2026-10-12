@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.Python
+.ipynb_checkpoints/
+
+# MVTec AD images stay outside the repository.
+data/
+**/transistor/train/
+**/transistor/test/
+**/transistor/ground_truth/
